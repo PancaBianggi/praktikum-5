@@ -1,3 +1,4 @@
+package overriding;
 class Hewan {
     void bersuara() {
         System.out.println("Hewan bersuara");
